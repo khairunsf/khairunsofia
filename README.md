@@ -1,5 +1,4 @@
 # khairunsofia
-Github Profile README
 <h1 align="center">Hi 👋, I'm Nur Khairun Sofia Aman</h1>
 <h3 align="center">A passionate fresh graduate who has an interest in web development, mobile application development, and UI/UX design.</h3>
 
