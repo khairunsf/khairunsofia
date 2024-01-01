@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I am Nur Khairun Sofia Aman</h1>
-<h3 align="center">A passionate software engineer fresh graduate who is interested in web development, mobile application development, and UI/UX design.</h3>
+<h3 align="center">A passionate software engineer fresh graduate who has interest in web development, mobile application development, and UI/UX design. I recently completed my studies and is eager to contribute my technical abilities and creativity to help organizations deliver high-quality digital solutions and experiences to end users.</h3>
 
 - 🌱 I’m currently:
     - learning **Flutter Frameworks to hone my skills in mobile application development.**
