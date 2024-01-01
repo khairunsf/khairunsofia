@@ -1,4 +1,4 @@
-# Intro
+
 <h1 align="center">Hi 👋, I am Nur Khairun Sofia Aman</h1>
 <h3 align="center">A passionate software engineer fresh graduate who is interested in web development, mobile application development, and UI/UX design.</h3>
 
