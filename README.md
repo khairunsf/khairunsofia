@@ -1,10 +1,13 @@
-# khairunsofia
-<h1 align="center">Hi 👋, I'm Nur Khairun Sofia Aman</h1>
-<h3 align="center">A passionate fresh graduate who has an interest in web development, mobile application development, and UI/UX design.</h3>
+# Intro
+<h1 align="center">Hi 👋, I am Nur Khairun Sofia Aman</h1>
+<h3 align="center">A passionate software engineer fresh graduate who is interested in web development, mobile application development, and UI/UX design.</h3>
 
-- 🌱 I’m currently learning **Laravel Frameworks to hone my skills in web development.**
+- 🌱 I’m currently:
+    - learning **Flutter Frameworks to hone my skills in mobile application development.**
+    - learning **Laravel Frameworks to hone my skills in web development.**
 
-- 📫 How to reach me **khairunsaman@gmail.com**
+- 📫 How to reach me? 
+    - via gmail: **khairunsaman@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
